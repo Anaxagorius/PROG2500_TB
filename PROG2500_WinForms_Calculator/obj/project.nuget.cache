@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q05hkZNVIIY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\W0516036\\NSCC\\Placeholdername\\C sharp\\PROG2500_Calculator_Submission\\PROG2500_WinForms_Calculator\\CalculatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\W0516036\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\W0516036\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\W0516036\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\W0516036\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
